@@ -1,9 +1,8 @@
-### Olá ! Eu sou o Marcos Nikel
+### Hi ! I am Marcos Nikel
 
 
-- 🔭 I’m currently working on Back-End 
-- 🌱 I’m currently learning Javascript/Node.js
-- ⚡ Fun facts : i love games, anime and programming
+- 🔭 i love front-end development and i´m currently learning about NextJS
+- ⚡ Fun fact : i love animes , and my favorite is one piece !
 
 - <div align="center">
   <a href="https:/9/github.com/marcossnikel">
@@ -14,12 +13,12 @@
   <div style="display: inline_block"><br>
     
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Marcos-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Marcos-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  
+ 
                                                                  
 </div>
 
