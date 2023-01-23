@@ -6,8 +6,8 @@
 
 - <div align="center">
   <a href="https:/9/github.com/marcossnikel">
-  [![card](https://github-readme-stats.vercel.app/api?username=mracossnikel&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![marcossnikel](https://github-readme-stats.vercel.app/api/top-langs/?username=marcossnikel&hide=html&layout=compact=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=marcossnikel&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=marcossnikel&hide=html&layout=compact=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
   <div style="display: inline_block"><br>
