@@ -4,7 +4,7 @@
 - 🔭 i love front-end development and i´m currently learning about NextJS
 - ⚡ Fun fact : i love animes , and my favorite is one piece !
 
-<div align:"center" style="display: block">
+<div style="display: block">
   <a href="https:/9/github.com/marcossnikel">
 [![card](https://github-readme-stats.vercel.app/api?username=marcossnikel&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=marcossnikel&hide=html&layout=compact=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
