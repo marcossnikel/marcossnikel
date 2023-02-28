@@ -1,4 +1,4 @@
-### Hi ! I am Marcos Nikel
+# Hi ! I am Marcos Nikel
 
 
 - 🔭 i love front-end development and i´m currently learning about NextJS
@@ -11,16 +11,16 @@
   
  <div style="display: inline_block"><br>
     
-  ## *Languages*
+  ### *Languages*
   <img src="https://skillicons.dev/icons?i=js,typescript,python,c++" />
   <br> 
-  ## *Libraries / Web Development Tools*
+  ### *Libraries / Web Development Tools*
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,styledcomponents,tailwind,sass" />
   <br>
-  ## *Frameworks*
+  ### *Frameworks*
   <img src="https://skillicons.dev/icons?i=nextjs,nodejs,vue,nuxt,nodejs" />
   <br>
-  ## *Databases / ORM´s *
+  ### *Databases / ORM´s *
   <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,mongoose,sqlite" />
   <br>
 
