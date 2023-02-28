@@ -12,8 +12,8 @@
   <div style="display: inline_block"><br>
     
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,vue,nuxt,react,nextjs,styledcomponents,tailwind,sass,nodejs,prisma,mysql,mongodb" />
-                                                                 
-
+  <br>                                                             
+  <img src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents,tailwind,sass,nodejs,prisma,mysql,mongodb" />
 
 ##
 <div> 
