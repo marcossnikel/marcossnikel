@@ -24,7 +24,7 @@
   <br>
   ### *Databases / ORM´s *
   <br>
-  <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,mongoose,sqlite" />
+  <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,sqlite" />
   <br>
 
 <div> 
