@@ -17,10 +17,13 @@
   <br> 
   ## *Libraries / Web Development Tools*
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,styledcomponents,tailwind,sass" />
+  <br>
   ## *Frameworks*
   <img src="https://skillicons.dev/icons?i=nextjs,nodejs,vue,nuxt,nodejs" />
+  <br>
   ## *Databases / ORM´s *
   <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,mongoose,sqlite" />
+  <br>
 ##
 <div> 
   <a href="https://www.instagram.com/nikeelwz/?hl=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
