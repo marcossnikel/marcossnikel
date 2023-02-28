@@ -9,8 +9,7 @@
 [![card](https://github-readme-stats.vercel.app/api?username=marcossnikel&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=marcossnikel&hide=html&layout=compact=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-  <div style="display: inline_block"><br>
-    
+ <div style="display: inline_block"><br>
     
   ## *Languages*
   <img src="https://skillicons.dev/icons?i=js,typescript,python,c++" />
@@ -24,7 +23,7 @@
   ## *Databases / ORM´s *
   <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,mongoose,sqlite" />
   <br>
-##
+
 <div> 
   <a href="https://www.instagram.com/nikeelwz/?hl=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcosnikeldev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
