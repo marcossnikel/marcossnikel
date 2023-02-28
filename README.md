@@ -11,10 +11,16 @@
   
   <div style="display: inline_block"><br>
     
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,vue,nuxt" />
-  <br>                                                             
-  <img src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents,tailwind,sass,nodejs,prisma,mysql,mongodb" />
-
+    
+  ## *Languages*
+  <img src="https://skillicons.dev/icons?i=js,typescript,python,c++" />
+  <br> 
+  ## *Libraries / Web Development Tools*
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,styledcomponents,tailwind,sass" />
+  ## *Frameworks*
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,vue,nuxt,nodejs" />
+  ## *Databases / ORM´s *
+  <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,mongoose,sqlite" />
 ##
 <div> 
   <a href="https://www.instagram.com/nikeelwz/?hl=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
