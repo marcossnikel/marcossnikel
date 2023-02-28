@@ -15,12 +15,15 @@
   <img src="https://skillicons.dev/icons?i=js,typescript,python,cpp,c"/>
   <br> 
   ### *Libraries / Web Development Tools*
+  <br>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,styledcomponents,tailwind,sass" />
   <br>
   ### *Frameworks*
+  <br>
   <img src="https://skillicons.dev/icons?i=nextjs,nodejs,vue,nuxt,nodejs" />
   <br>
   ### *Databases / ORM´s *
+  <br>
   <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,mongoose,sqlite" />
   <br>
 
