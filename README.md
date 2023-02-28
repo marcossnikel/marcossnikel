@@ -12,7 +12,7 @@
  <div style="display: inline_block"><br>
     
   ### *Languages*
-  <img src="https://skillicons.dev/icons?i=js,typescript,python,c++" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,python,cpp,c"/>
   <br> 
   ### *Libraries / Web Development Tools*
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,styledcomponents,tailwind,sass" />
