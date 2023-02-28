@@ -16,7 +16,7 @@
 
 ### *Libraries / Web Development Tools :*
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,styledcomponents,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=html,css,react,styledcomponents,tailwind,sass" />
 <br><br>
 
 ### *Frameworks :*
