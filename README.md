@@ -20,7 +20,7 @@
   <br>
   ### *Frameworks*
   <br>
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,vue,nuxt,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,vue,nuxt" />
   <br>
   ### *Databases / ORM´s *
   <br>
