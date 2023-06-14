@@ -6,7 +6,7 @@
 <a href="https://github.com/marcossnikel">
   
 [![card](https://github-readme-stats.vercel.app/api?username=marcossnikel&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?marcossnikel=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcossnikel&layout=compact)
   
 <div style="display: inline_block"><br>
 
