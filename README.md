@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
 
 ### *Languages :* 
-<img src="https://skillicons.dev/icons?i=js,typescript,python,cpp,c"/>
+<img src="https://skillicons.dev/icons?i=js,typescript,python,go,"/>
 <br><br>
 
 ### *Libraries / Web Development Tools :*
