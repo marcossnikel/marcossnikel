@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
 
 ### *Languages :* 
-<img src="https://skillicons.dev/icons?i=js,typescript,python,go,"/>
+<img src="https://skillicons.dev/icons?i=js,typescript,python,go,java"/>
 <br><br>
 
 ### *Libraries / Web Development Tools :*
@@ -21,7 +21,7 @@
 
 ### *Frameworks :*
 
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,vue,nuxt" />
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs" />
 <br><br>
 
 ### *Databases / ORM's :*
