@@ -26,7 +26,7 @@
 
 ### *Databases / ORM's :*
 
-<img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,sqlite,postgres" />
 <br><br>
 
 <div> 
