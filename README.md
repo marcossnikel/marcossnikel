@@ -1,7 +1,7 @@
 <h1 align="center"> Marcos Nikel Leite Machado </h1>
 
 <div align="center">
-Software Engineer | Volleyball enthusiast | Sometimes i go to the gym 💪🏻
+Software Engineer | Volleyball enthusiast | Sometimes i go to the gym 💪🏻💪🏻
     
 I like volleyball, programming, music ,anime and sports in general.
 </div>
