@@ -51,8 +51,8 @@ Also worked with mobile-first approach and clean architecture.
  [**Grocery List App**](https://github.com/bihellzin/projeto-p1-2019.1): ReactNative App simulating an grocery list for the supermarket
   
  [**Portfolio**](https://github.com/bihellzin/my_pomodoro_timer): Portfolio to showcase my skills
- 
- [**Fuel Meter**](https://github.com/bihellzin/tic-tac-toe): Project where users are able to calculate their caloric expenditure
 
   <h3>Working on</h3>
+ 
+ [**Fuel Meter**](https://github.com/bihellzin/tic-tac-toe): Project where users are able to calculate their caloric expenditure
   
