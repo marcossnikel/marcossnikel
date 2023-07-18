@@ -32,13 +32,6 @@ Experience in both **Full Stack** and **Frontend Development** with the technolo
 
 Also worked with mobile-first approach and clean architecture.
 
- 
-
- <div align='center'>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcossnikel&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcossnikel&layout=compact&langs_count=7&theme=blue-green"/>
-</div> 
-
 
 
 <div align="center">
