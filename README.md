@@ -34,7 +34,7 @@ Also worked with mobile-first approach and clean architecture.
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mnikel/)](https://www.linkedin.com/in/gabriel-de-oliveira-ferreira/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mnikel/)](https://www.linkedin.com/in/mnikel/)
     
  </div>
 
