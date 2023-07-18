@@ -33,6 +33,10 @@ Experience in both **Full Stack** and **Frontend Development** with the technolo
 Also worked with mobile-first approach and clean architecture.
 
 
+<div align='center'>
+<a height="140em" href="http://www.github.com/JCDMeira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcossnikel&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>
+
 
 <div align="center">
 
