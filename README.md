@@ -44,15 +44,15 @@ Also worked with mobile-first approach and clean architecture.
     
  <h2>Projects</h2>  
       
- [**Ignite Todo**](https://github.com/bihellzin/flasks-ts): Tower of Hanoi-like game
+ [**Ignite Todo**](https://github.com/bihellzin/flasks-ts): Todolist ReactJs Project
  
- [**Ignite Feed**](https://github.com/bihellzin/genius-ts): Project inspired by a brazilian game with the same name
+ [**Ignite Feed**](https://github.com/bihellzin/genius-ts): ReactJs Page made to practice some core concepts of React, simulates an Social Media Feed
   
- [**Grocery List App**](https://github.com/bihellzin/projeto-p1-2019.1): My first ever project, developed during the first semester at the university  
+ [**Grocery List App**](https://github.com/bihellzin/projeto-p1-2019.1): ReactNative App simulating an grocery list for the supermarket
   
- [**Portfolio**](https://github.com/bihellzin/my_pomodoro_timer): Simple timer that uses the pomodoro technique 
+ [**Portfolio**](https://github.com/bihellzin/my_pomodoro_timer): Portfolio to showcase my skills
  
- [**Fuel Meter**](https://github.com/bihellzin/tic-tac-toe): Simple tic-tac-toe game  
+ [**Fuel Meter**](https://github.com/bihellzin/tic-tac-toe): Project where users are able to calculate their caloric expenditure
 
   <h3>Working on</h3>
   
