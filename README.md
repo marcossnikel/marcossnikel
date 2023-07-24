@@ -3,7 +3,7 @@
 <div align="center">
 Software Engineer | Volleyball enthusiast | Sometimes i go to the gym 💪🏻💪🏻
     
-I like volleyball, programming, music ,anime and sports in general. My favorite anime is OnePiece
+I like volleyball, programming, music ,anime and sports in general.
 </div>
 
 ---
